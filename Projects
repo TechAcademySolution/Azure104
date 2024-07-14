@@ -1,0 +1,23 @@
+Deploy a Web Application using Azure App Service.
+Description: Create and deploy a web application using Azure App Service. Configure the app for high availability and implement auto-scaling.
+Skills Covered: App Service, Web Apps, Scaling, High Availability.
+Documentation: https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/
+Create and Manage a Virtual Network
+Description: Design and deploy a virtual network with subnets, network security groups, and a VPN gateway. Implement a site-to-site VPN connection.
+Skills Covered: Virtual Network, Subnets, Network Security Groups, VPN Gateway.
+Documentation: https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal
+Implement Azure Storage Solutions
+Description: Set up different Azure Storage services such as Blob, File, and Queue Storage. Implement data redundancy and access control.
+Skills Covered: Azure Storage, Blob Storage, File Storage, Queue Storage, Redundancy, Access Control.
+Configure and Manage Azure Backup
+Description: Configure Azure Backup for virtual machines and. Implement backup policies and test the restore process.
+Skills Covered: Azure Backup, Backup Policies, Restore Process.
+Deploy and Manage Azure Virtual Machines
+Description: Deploy virtual machines, configure their networking, storage, and implement security measures such as Azure Bastion and Just-In-Time (JIT) VM access.
+Skills Covered: Virtual Machines, Networking, Storage, Security, Azure Bastion, JIT VM Access.
+Implement Monitoring and Alerts
+Description: Set up Azure Monitor to collect and analyze metrics and logs. Create alerts and action groups to notify administrators of critical issues.
+Skills Covered: Azure Monitor, Metrics, Logs, Alerts, Action Groups.
+Configure Azure Identity and Access Management
+Description: Implement Azure Active Directory (AD) and manage user roles and access. Configure multi-factor authentication (MFA) and conditional access policies.
+Skills Covered: Azure Active Directory, User Roles, Access Management, MFA, Conditional Access Policies.
